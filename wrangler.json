@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-asys",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "66342631-72fb-4004-a806-593d90512d4c",
+			"database_name": "d1-asys-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
